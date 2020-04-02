@@ -1,0 +1,8 @@
+beautifulsoup4==4.8.2
+requests==2.23.0
+jupyter==1.0.0
+tqdm==4.43.0
+numpy==1.18.2
+selenium==3.141.0
+networkx===2.4
+pandas==0.25.3
