@@ -1,0 +1,15 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+#Scopus API config
+config.json
+logs
+venv
+**/.DS_Store
+__pycache__
+
+# Jupyer
+.ipynb_checkpoints/
